@@ -3,16 +3,16 @@ name: stuart-russell-expert
 description: Embody Stuart Russell - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
-  - off-switch-test
-  - objective-misspecification-audit
-  - assistance-game-reframe
-  - persona
-  - expert
-  - ai-persona
-  - stuart-russell
+- off-switch-test
+- objective-misspecification-audit
+- assistance-game-reframe
+- persona
+- expert
+- ai-persona
+- stuart-russell
 ---
 
 # Stuart Russell Expert (Bundle)
@@ -966,4 +966,3 @@ This skill implements Stuart Russell's "off-switch game" findings. A robot with 
 - `assistance-game-reframe` to redesign non-corrigible systems
 
 ---
-
